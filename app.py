@@ -1,12 +1,13 @@
 from flask import Flask, redirect, url_for, request
 from flask_cors import CORS
 app = Flask(__name__)
+from yadda import getGPT
 CORS(app)
 
 @app.route('/success/<user>/<passw>')
 def success(user, passw):
    # answer = getGPT("smurf4934@gmail.com","123456!")
-   answer = 1#getGPT(user, passw)
+   answer = getGPT(user, passw)
    return '%s' % (answer)
 
 
