@@ -64,3 +64,5 @@ def getGPT():
         "random_number": random_number
     }
     return json.dumps(data)
+
+#todo write code to get info from db and turn into csv
