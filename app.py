@@ -1,8 +1,17 @@
 from flask import Flask, redirect, url_for, request
 from flask_cors import CORS
-app = Flask(__name__)
 from yadda import getGPT, poop
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import db
+import pickle
+
+app = Flask(__name__)
 CORS(app)
+
+# Load pipeline and model using the binary files
+model = pickle.load(open('poopie_model.pkl', 'rb'))
+
 
 @app.route('/startFunction')
 def success():
