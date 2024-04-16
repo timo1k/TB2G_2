@@ -1,0 +1,101 @@
+,building,gender,cleanliness,amenities,privacy,rating,Floor-Section
+0,Beury Hall,Male,3,2,5,3.33,1-East
+1,Beury Hall,Gender Neutral,3,5,2,3.33,1-East
+2,Tuttleman,Male,3,2,3,2.67,1-East
+3,Gladfelter,Gender Neutral,3,4,3,3.33,1-East
+4,SERC,Female,4,2,3,3.0,1-East
+5,Tuttleman,Male,4,5,1,3.33,1-Main
+6,SERC,Female,1,3,3,2.33,1-Main
+7,Wachman Hall,Gender Neutral,4,2,5,3.67,1-Main
+8,Biology Life Sciences,Female,3,1,1,1.67,1-Main
+9,Mazur,Gender Neutral,3,3,4,3.33,1-North
+10,Biology Life Sciences,Male,3,2,5,3.33,1-North
+11,Tuttleman,Female,4,5,1,3.33,1-North
+12,Gladfelter,Female,5,3,3,3.67,1-North
+13,Speakman Hall,Male,3,2,3,2.67,1-South
+14,Charles Library,Gender Neutral,2,4,3,3.0,1-South
+15,Biology Life Sciences,Gender Neutral,2,3,3,2.67,1-South
+16,Beury Hall,Gender Neutral,3,5,1,3.0,1-South
+17,SERC,Male,4,4,2,3.33,1-West
+18,Alter Hall,Female,3,3,1,2.33,1-West
+19,Biology Life Sciences,Male,1,4,1,2.0,1-West
+20,Tuttleman,Male,5,4,3,4.0,1-West
+21,Speakman Hall,Gender Neutral,3,2,3,2.67,1-West
+22,Biology Life Sciences,Female,1,2,3,2.0,1-West
+23,SERC,Female,2,4,2,2.67,2-East
+24,SERC,Gender Neutral,4,5,4,4.33,2-East
+25,SERC,Gender Neutral,4,4,5,4.33,2-East
+26,Wachman Hall,Male,1,4,5,3.33,2-East
+27,Gladfelter,Male,5,4,4,4.33,2-Main
+28,Biology Life Sciences,Female,5,1,4,3.33,2-Main
+29,Wachman Hall,Gender Neutral,3,3,4,3.33,2-Main
+30,Tuttleman,Female,2,1,3,2.0,2-Main
+31,Gladfelter,Gender Neutral,2,5,2,3.0,2-North
+32,Beury Hall,Male,4,5,5,4.67,2-North
+33,Charles Library,Gender Neutral,5,4,4,4.33,2-North
+34,Wachman Hall,Female,4,4,3,3.67,2-North
+35,Speakman Hall,Gender Neutral,3,2,2,2.33,2-North
+36,Mazur,Gender Neutral,3,2,3,2.67,2-North
+37,Biology Life Sciences,Female,5,3,5,4.33,2-North
+38,Beury Hall,Female,4,3,4,3.67,2-North
+39,Wachman Hall,Female,2,2,3,2.33,2-South
+40,Charles Library,Gender Neutral,1,5,2,2.67,2-South
+41,Charles Library,Gender Neutral,2,5,5,4.0,2-South
+42,Beury Hall,Female,5,4,1,3.33,2-South
+43,SERC,Male,2,2,4,2.67,2-South
+44,Wachman Hall,Male,4,2,1,2.33,2-South
+45,SERC,Male,2,4,5,3.67,2-South
+46,SERC,Female,4,5,5,4.67,2-South
+47,Tuttleman,Male,1,5,1,2.33,2-South
+48,Tuttleman,Female,4,1,5,3.33,2-West
+49,Tuttleman,Female,1,3,4,2.67,2-West
+50,SERC,Gender Neutral,4,5,3,4.0,2-West
+51,Alter Hall,Gender Neutral,2,2,5,3.0,2-West
+52,Wachman Hall,Male,3,2,3,2.67,3-East
+53,Mazur,Male,3,1,3,2.33,3-East
+54,Biology Life Sciences,Male,1,5,5,3.67,3-East
+55,Tuttleman,Gender Neutral,3,3,4,3.33,3-Main
+56,Wachman Hall,Gender Neutral,4,3,5,4.0,3-Main
+57,Tuttleman,Male,1,2,3,2.0,3-Main
+58,Mazur,Female,1,2,4,2.33,3-Main
+59,Mazur,Male,3,1,4,2.67,3-North
+60,Alter Hall,Female,2,3,5,3.33,3-North
+61,Speakman Hall,Female,3,2,2,2.33,3-North
+62,Mazur,Male,3,5,5,4.33,3-North
+63,Alter Hall,Male,1,3,1,1.67,3-North
+64,Charles Library,Gender Neutral,4,5,4,4.33,3-South
+65,Charles Library,Gender Neutral,3,4,1,2.67,3-South
+66,Alter Hall,Male,5,2,2,3.0,3-South
+67,Beury Hall,Gender Neutral,3,5,1,3.0,3-South
+68,Speakman Hall,Male,3,3,3,3.0,3-South
+69,SERC,Gender Neutral,1,2,1,1.33,3-West
+70,Mazur,Female,1,2,4,2.33,3-West
+71,SERC,Female,4,2,1,2.33,3-West
+72,Gladfelter,Female,3,2,4,3.0,4-East
+73,Tuttleman,Female,3,1,3,2.33,4-East
+74,Speakman Hall,Gender Neutral,3,3,4,3.33,4-East
+75,Alter Hall,Male,5,4,1,3.33,4-Main
+76,Wachman Hall,Female,1,1,3,1.67,4-Main
+77,Wachman Hall,Female,3,1,2,2.0,4-Main
+78,Mazur,Gender Neutral,1,2,4,2.33,4-Main
+79,Speakman Hall,Male,1,2,4,2.33,4-North
+80,Biology Life Sciences,Female,1,5,3,3.0,4-North
+81,Tuttleman,Male,1,4,1,2.0,4-North
+82,Wachman Hall,Male,2,4,5,3.67,4-North
+83,Speakman Hall,Gender Neutral,3,5,2,3.33,4-North
+84,Charles Library,Female,2,2,3,2.33,4-North
+85,SERC,Female,2,4,5,3.67,4-South
+86,Alter Hall,Male,5,5,4,4.67,4-South
+87,Mazur,Gender Neutral,2,1,3,2.0,4-South
+88,Charles Library,Female,2,2,4,2.67,4-South
+89,Gladfelter,Female,1,3,4,2.67,4-South
+90,Wachman Hall,Female,2,5,2,3.0,4-South
+91,Gladfelter,Gender Neutral,3,3,4,3.33,4-South
+92,Beury Hall,Female,5,3,2,3.33,4-South
+93,Wachman Hall,Female,2,4,2,2.67,4-West
+94,Mazur,Gender Neutral,4,2,4,3.33,4-West
+95,Beury Hall,Gender Neutral,2,4,5,3.67,4-West
+96,Tuttleman,Female,3,5,3,3.67,4-West
+97,Speakman Hall,Female,5,5,1,3.67,4-West
+98,Wachman Hall,Female,4,4,4,4.0,4-West
+99,Mazur,Female,1,3,4,2.67,4-West
